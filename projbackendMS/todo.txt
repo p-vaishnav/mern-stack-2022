@@ -1,0 +1,25 @@
+TODO:
+IMMEDIATE:
+    - Understand project backend Micro service
+
+INTER_MEDIATE:
+Read articles of converting a Monolith to a Microservices based architecture 1 / 3
+How type and ref work in mongoDB
+Image Data should be stored // uploaded in s3 or (a service which was used to store images)
+Start making project with interacting micro-services via http (req-response cycle)
+    - User -> STARTED
+    - Order
+    - Product -> STARTED
+        Complete all the controllers in Product Model
+            -> 
+    - Category
+Each and every MS should have its own service
+
+
+IN_FUTURE:
+YAML Documentation should also be updated, side by side
+Should integrate docker as well
+Logging should also take place
+OAuth should also be integrated as well
+Write it first in JS and then convert into typescript
+
