@@ -1,9 +1,11 @@
 require('dotenv').config()
 const express = require('express');
 const cors = require('cors');
-
+console.log("Testing in app.js")
 const app = express();
 const router = require('./user.route');
+
+console.log("updation in app.js")
 
 const cookieParser = require('cookie-parser');
 const fileUpload = require('express-fileupload');
